@@ -25,7 +25,7 @@ A Java application that automatically organizes files into folders based on thei
 ### Clone repository
 
 ```bash
-git clone https://github.com/yourusername/SmartFileOrganizer.git
+git clone https://github.com/monolut/-Smart-File-Organizer.git
 ```
 
 ### Build

@@ -1,0 +1,22 @@
+[ {
+  "source" : "/Users/galuzinnicolai/Downloads/photo_2026-07-07_14-00-40.jpg",
+  "destination" : "/Users/galuzinnicolai/Downloads/Images/photo_2026-07-07_14-00-40.jpg"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/photo_2026-07-07_14-00-40.png",
+  "destination" : "/Users/galuzinnicolai/Downloads/Images/photo_2026-07-07_14-00-40.png"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/.DS_Store",
+  "destination" : "/Users/galuzinnicolai/Downloads/Others/.DS_Store"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/presentation.pdf",
+  "destination" : "/Users/galuzinnicolai/Downloads/Documents/presentation.pdf"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/photo_2026-07-07_13-58-24.jpg",
+  "destination" : "/Users/galuzinnicolai/Downloads/Images/photo_2026-07-07_13-58-24.jpg"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/round_2026-07-07_23-19-06.mp4",
+  "destination" : "/Users/galuzinnicolai/Downloads/Videos/round_2026-07-07_23-19-06.mp4"
+}, {
+  "source" : "/Users/galuzinnicolai/Downloads/text.txt",
+  "destination" : "/Users/galuzinnicolai/Downloads/Documents/text.txt"
+} ]
